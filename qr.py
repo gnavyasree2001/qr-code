@@ -11,3 +11,4 @@ qr.make(fit=True)
 img=qr.make_image(fill_color='black',back_color='purple')
 img.save('hello.png')
 img.show()
+#this program will generate qr code
